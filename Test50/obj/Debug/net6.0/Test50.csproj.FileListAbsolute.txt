@@ -1,0 +1,15 @@
+C:\Users\Анжела\Desktop\СЕМИНАРЫ\Zadanie_Seminar7_25.08.2022\Test50\bin\Debug\net6.0\Test50.exe
+C:\Users\Анжела\Desktop\СЕМИНАРЫ\Zadanie_Seminar7_25.08.2022\Test50\bin\Debug\net6.0\Test50.deps.json
+C:\Users\Анжела\Desktop\СЕМИНАРЫ\Zadanie_Seminar7_25.08.2022\Test50\bin\Debug\net6.0\Test50.runtimeconfig.json
+C:\Users\Анжела\Desktop\СЕМИНАРЫ\Zadanie_Seminar7_25.08.2022\Test50\bin\Debug\net6.0\Test50.dll
+C:\Users\Анжела\Desktop\СЕМИНАРЫ\Zadanie_Seminar7_25.08.2022\Test50\bin\Debug\net6.0\Test50.pdb
+C:\Users\Анжела\Desktop\СЕМИНАРЫ\Zadanie_Seminar7_25.08.2022\Test50\obj\Debug\net6.0\Test50.csproj.AssemblyReference.cache
+C:\Users\Анжела\Desktop\СЕМИНАРЫ\Zadanie_Seminar7_25.08.2022\Test50\obj\Debug\net6.0\Test50.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Анжела\Desktop\СЕМИНАРЫ\Zadanie_Seminar7_25.08.2022\Test50\obj\Debug\net6.0\Test50.AssemblyInfoInputs.cache
+C:\Users\Анжела\Desktop\СЕМИНАРЫ\Zadanie_Seminar7_25.08.2022\Test50\obj\Debug\net6.0\Test50.AssemblyInfo.cs
+C:\Users\Анжела\Desktop\СЕМИНАРЫ\Zadanie_Seminar7_25.08.2022\Test50\obj\Debug\net6.0\Test50.csproj.CoreCompileInputs.cache
+C:\Users\Анжела\Desktop\СЕМИНАРЫ\Zadanie_Seminar7_25.08.2022\Test50\obj\Debug\net6.0\Test50.dll
+C:\Users\Анжела\Desktop\СЕМИНАРЫ\Zadanie_Seminar7_25.08.2022\Test50\obj\Debug\net6.0\refint\Test50.dll
+C:\Users\Анжела\Desktop\СЕМИНАРЫ\Zadanie_Seminar7_25.08.2022\Test50\obj\Debug\net6.0\Test50.pdb
+C:\Users\Анжела\Desktop\СЕМИНАРЫ\Zadanie_Seminar7_25.08.2022\Test50\obj\Debug\net6.0\Test50.genruntimeconfig.cache
+C:\Users\Анжела\Desktop\СЕМИНАРЫ\Zadanie_Seminar7_25.08.2022\Test50\obj\Debug\net6.0\ref\Test50.dll
